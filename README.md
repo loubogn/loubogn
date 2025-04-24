@@ -1,4 +1,6 @@
 ## Hi there 👋
+Biomedical Engineering student 👩‍💻📚
+currently working with eeg data 🧠
 
 <!--
 **loubogn/loubogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
