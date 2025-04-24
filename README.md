@@ -1,5 +1,5 @@
-## Hi there 👋
-Biomedical Engineering student 👩‍💻📚
+### Hello together 👋
+I am a Biomedical Engineering student 👩‍💻📚
 currently working with eeg data 🧠
 
 <!--
